@@ -32,6 +32,10 @@ squares you want to "X". The main objective is to match the sums on the associat
    Toggle cells to match the row and column sums.
    Enter a row-column letter pair or 'quit': 
    ```
+   
+## Source
+For more information on how to play the game
+https://www.brainbashers.com/kakurasuhelp.asp
 
 ## Acknowledgments
 Professor George Freeman
